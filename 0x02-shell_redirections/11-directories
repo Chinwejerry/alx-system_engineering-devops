@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -type d I WE -1l
+find . -mindepth 1 -type d I WE -1
