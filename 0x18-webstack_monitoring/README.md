@@ -1,1 +1,1 @@
-web stack more
+web stacks more
