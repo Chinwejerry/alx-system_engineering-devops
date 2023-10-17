@@ -1,4 +1,4 @@
-# Application_server
+# Application_servers
 
 ![](https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Application-Server-1.1.png)
 
